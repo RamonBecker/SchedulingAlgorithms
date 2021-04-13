@@ -34,14 +34,14 @@ Shortest Job First (SJF) scheduling the scheduling algorithm that provides the l
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ```sh
-git clone https://github.com/RamonBecker/AlgoritmHash.git
+git clone https://github.com/RamonBecker/SchedulingAlgorithms.git
 ```
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ```sh
-git clone https://github.com/RamonBecker/AlgoritmHash.git
+git clone https://github.com/RamonBecker/SchedulingAlgorithms.git
 or install github https://desktop.github.com/ 
 
 ```
